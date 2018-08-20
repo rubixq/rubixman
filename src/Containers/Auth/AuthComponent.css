@@ -1,0 +1,14 @@
+.login-form-container{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form{
+    width: 400px;
+    height: 250px;
+    background: #ff0000;
+}
